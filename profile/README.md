@@ -25,6 +25,7 @@ If you're interested in contributing:
 3. Open a pull request for review.
 
 All types of contributions—whether it's bug fixes, feature development, or documentation improvements—are greatly appreciated!
+
 We look forward to seeing what we can build together! 🚀
 
 
